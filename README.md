@@ -1,4 +1,4 @@
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/mschuh/BarlowDTI)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/mschuh/BarlowDTI)
 [![arXiv](https://img.shields.io/badge/arXiv-2408.00040-b31b1b.svg)](https://arxiv.org/abs/2408.00040)
 
 # BarlowDTI
