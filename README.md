@@ -1,5 +1,5 @@
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/mschuh/BarlowDTI)
-[![arXiv](https://img.shields.io/badge/arXiv-2408.00040-b31b1b.svg)](https://arxiv.org/abs/2408.00040)
+[![J%20Cheminform](https://img.shields.io/badge/J%20Cheminform-1b3051.svg)](https://doi.org/10.1186/s13321-025-00952-2)
 
 # BarlowDTI
 
@@ -23,13 +23,21 @@ You can find our code and data stored in this repository.
 
 If you use our work in your research, please cite:
 ```
-@misc{schuh2024barlowtwinsdeepneural,
-      title={Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction}, 
-      author={Maximilian G. Schuh and Davide Boldini and Annkathrin I. Bohne and Stephan A. Sieber},
-      year={2024},
-      eprint={2408.00040},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.BM},
-      url={https://arxiv.org/abs/2408.00040}, 
+@article{schuh2025barlow,
+  title = {Barlow {{Twins}} Deep Neural Network for Advanced {{1D}} Drug--Target Interaction Prediction},
+  author = {Schuh, Maximilian G. and Boldini, Davide and Bohne, Annkathrin I. and Sieber, Stephan A.},
+  year = {2025},
+  month = dec,
+  journal = {Journal of Cheminformatics},
+  volume = {17},
+  number = {1},
+  pages = {1--14},
+  publisher = {BioMed Central},
+  issn = {1758-2946},
+  doi = {10.1186/s13321-025-00952-2},
+  urldate = {2025-02-06},
+  copyright = {2025 The Author(s)},
+  langid = {english},
 }
+
 ```
